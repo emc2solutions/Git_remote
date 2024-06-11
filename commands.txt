@@ -21,3 +21,5 @@ files/folder related to a project. It keeps track of the changes made over time.
     -initialize a folder
 *git config --global user.name "<username>"
 *git config --global user.email "<email>"
+git log
+git log --oneline
